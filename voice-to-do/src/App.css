@@ -23,7 +23,7 @@
 }
 .todo-card{
   border: 1px dashed #1f133d;
-  height: 50vh;
+  height: auto;
   width: 50vh;
   border-radius: 20px;
 }
